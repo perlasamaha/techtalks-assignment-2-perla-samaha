@@ -100,9 +100,11 @@
 
 **Lower priority for this niche (present but narrow use case):**
 - MongoDB/MERN-specific tooling - mostly Dubai startup/agency listings
-- Next.js - a small but growing subset, again concentrated in Dubai's more product-focused postings
+- Next.js- a small but growing subset, again concentrated in Dubai's more product-focused postings
 - Docker/Kubernetes - appeared mainly in senior-level US listings; less critical to break in at junior/mid level
 
 ### What Surprised Me
 
-Expanding the research across Lebanon, Dubai, and the US revealed that the core stack barely changes by region. React and Node.js dominate everywhere, which suggests this is genuinely a global skill floor rather than a regionally specific trend. What did shift by region was the secondary tooling: Dubai's listings leaned toward newer, product-focused tools (Next.js, Tailwind, shadcn/ui), while Lebanon's and the US government-adjacent listings leaned toward more traditional enterprise stacks (Java/Spring, Angular). This tells me the safest strategy is still to build depth in React + Node.js + TypeScript first, since that transfers across all three markets, and treat the region-specific tooling (Next.js for UAE-style product companies, or Java/Spring for enterprise/gov-style employers) as an optional specialization layered on top depending on which market I end up targeting.
+Expanding the research across Lebanon, Dubai, and the US revealed that the core stack barely changes by region. React and Node.js dominate everywhere, which suggests this is genuinely a global skill floor rather than a regionally specific trend. 
+What did shift by region was the secondary tooling: Dubai's listings leaned toward newer, product-focused tools (Next.js, Tailwind, shadcn/ui), while Lebanon's and the US government-adjacent listings leaned toward more traditional enterprise stacks (Java/Spring, Angular). 
+This tells me the safest strategy is still to build depth in React + Node.js + TypeScript first, since that transfers across all three markets, and treat the region-specific tooling (Next.js for UAE-style product companies, or Java/Spring for enterprise/gov-style employers) as an optional specialization layered on top depending on which market I end up targeting.
